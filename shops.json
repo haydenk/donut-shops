@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7727987,
+          33.070223
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Sunny Donuts",
+        "address": "6832 Coit Rd, Ste 270",
+        "phone": "(972) 618-4920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.749694,
+          33.0197138
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Rudy’s Donut Shop",
+        "address": "2729 W 15th St",
+        "phone": "(214) 578-8230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.84391,
+          33.027261
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Wow Donuts & Drips",
+        "address": "6509 W Park Blvd, Ste 420",
+        "phone": "(469) 786-5030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.843214,
+          33.04601
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "J’s Donuts",
+        "address": "6405 W Parker Rd, Ste 380",
+        "phone": "(972) 943-9354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.770561,
+          33.0264223
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "A One Donuts",
+        "address": "1820 Coit Rd, Ste 103",
+        "phone": "(972) 943-0801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6865359,
+          33.0176182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "14th Street Donut",
+        "address": "1900 14th St, Unit B",
+        "phone": "(469) 975-6504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7945731,
+          33.0850358
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Parks Donuts",
+        "address": "4637 Hedgecoxe Rd, Ste 102",
+        "phone": "(469) 633-9709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7012372,
+          33.0236813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Rainbow Donuts",
+        "address": "1730 K Ave",
+        "phone": "(972) 881-3619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7730766,
+          33.0429047
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Donut Lovers",
+        "address": "4013 W Parker Rd",
+        "phone": "(972) 758-1411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7722862,
+          33.1005593
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Donut House",
+        "address": "3916 McDermott Rd, Ste 110",
+        "phone": "(214) 872-3904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8278193,
+          33.0834395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Glazed Donut Works - Legacy Hall",
+        "address": "7800 Windrose Ave, LH1-01",
+        "phone": "(214) 741-2275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7700157,
+          33.0095485
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Donut Bar",
+        "address": "4004 W Plano Pkwy, 100 B",
+        "phone": "(469) 298-0759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7340884,
+          33.0597278
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Bunki’s Donut Shop",
+        "address": "2011 W Spring Creek Pkwy, Ste 250",
+        "phone": "(972) 517-5565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6998011,
+          33.0676002
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Yonuts",
+        "address": "280 Legacy Dr",
+        "phone": "(469) 467-7040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6523008,
+          33.0323216
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Q Donuts",
+        "address": "4101 E Park Blvd",
+        "phone": "(972) 881-0492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.732957,
+          33.019834
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Morning Donuts",
+        "address": "1905 W 15th St, Ste 117",
+        "phone": "(972) 424-1840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7732294,
+          33.0866872
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Happy Donut",
+        "address": "8000 Coit Rd",
+        "phone": "(972) 377-8006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.668176,
+          33.031405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "Mr. Donut",
+        "address": "3505 E Park Blvd, Ste 330",
+        "phone": "(469) 814-9374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7393238,
+          33.0853736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "John’s Donuts",
+        "address": "7965 Custer Rd",
+        "phone": "(972) 491-7272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7091762,
+          33.0566867
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bakery",
+        "name": "R C Donut",
+        "address": "700 W Spring Creek Pkwy",
+        "phone": "(972) 422-3379"
+      }
+    }
+  ]
+}
